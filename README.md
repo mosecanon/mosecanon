@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mosecanon
-- 👀 I’m interested PHP, Python and Javascript
-- 🌱 I’m currently learning Arduino
-- 💞️ I’m looking to collaborate on PHP & Python
+- 👀 Machine Learning, Android, ios and web developer 
+- 🌱 Currently working on my Arduino skills
+- 💞️ I’m looking to collaborate on PHP, Python, Javascript, C#, Golang, Kivy & other frameworks
 
 
 <!---
